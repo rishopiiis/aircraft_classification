@@ -1,0 +1,1 @@
+Exploratory Data Analysis (EDA) involves analyzing and visualizing data to uncover underlying patterns, relationships, and trends, helping to inform further analysis. Data Analysis focuses on interpreting and summarizing data to draw actionable insights and support decision-making processes.
