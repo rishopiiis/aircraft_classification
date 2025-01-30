@@ -1,0 +1,1 @@
+This project predicts the price of gold (`GLD`) using historical data from features like `SPX`, `USO`, `SLV`, and `EUR/USD`. Machine learning models are used to identify correlations and make accurate predictions of future gold prices.
