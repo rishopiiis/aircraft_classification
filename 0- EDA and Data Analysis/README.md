@@ -1,1 +1,3 @@
-Exploratory Data Analysis (EDA) involves analyzing and visualizing data to uncover underlying patterns, relationships, and trends, helping to inform further analysis. Data Analysis focuses on interpreting and summarizing data to draw actionable insights and support decision-making processes.
+📊 Exploratory Data Analysis (EDA) & Data Analysis
+This repository focuses on Exploratory Data Analysis (EDA) and Data Analysis, essential steps in any data science or machine learning workflow. These processes are used to understand the dataset, identify patterns, detect anomalies, test hypotheses, and inform further modeling or business decisions.
+
