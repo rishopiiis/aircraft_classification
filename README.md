@@ -1,2 +1,15 @@
-# AI-Projects-Main
-A collection of AI and machine learning projects. Each project includes well-documented code, explanations, and datasets to help with learning and experimentation
+🤖 AI Projects: From EDA to Deep Learning
+Welcome to my Artificial Intelligence (AI) Projects repository! This repo features end-to-end AI workflows, starting from data exploration and visualization, moving through traditional machine learning, and advancing into deep learning techniques.
+
+Each project includes:
+
+- Data loading and cleaning
+
+- Exploratory Data Analysis (EDA)
+
+- Visual storytelling using plots
+
+- Model training and evaluation
+
+- Optional deployment (Streamlit or APIs)
+
