@@ -11,10 +11,15 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 - Classes:
   
 0 - Buildings
+
 1 - Forest
+
 2 - Glacier
+
 3 - Mountain
+
 4 - Sea
+
 5 - Street
 
 
