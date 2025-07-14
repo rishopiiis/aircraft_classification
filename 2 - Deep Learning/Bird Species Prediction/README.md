@@ -1,4 +1,5 @@
 🐦 Bird Species Image Dataset
+
 📄 Dataset Description
 The Bird Species Dataset is a curated collection of bird images designed for image classification, deep learning, and wildlife research. It contains images of six distinct bird species, each with unique biological and visual traits. The dataset is ideal for building and evaluating computer vision models, particularly in the fields of ornithology, species recognition, and biodiversity studies.
 
@@ -19,6 +20,7 @@ The dataset consists of 6 directories, each representing a different bird specie
 | **Flamingo**           | Tall, pink wading bird commonly found in shallow lakes and lagoons.                         | 132         |
 
 📦 Summary
+
 Total Species: 6
 
 Total Images: 811
