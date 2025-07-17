@@ -42,7 +42,7 @@ A deep learning model based on **Convolutional Neural Networks (CNN)** was train
 ### ✅ Final Test Accuracy: **97%**
 
 - Model Type: Custom CNN
-- Input Size: 224x224x3
+- Input Size: 150x150x3
 - Optimizer: Adam
 - Loss Function: sparse categorical crossentropy
 - Metrics: Accuracy
